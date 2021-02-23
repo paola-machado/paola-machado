@@ -19,9 +19,9 @@
 </p>
 
 ## ⭐ Informações sobre minha conta GitHub
-  [![card](https://github-readme-stats.vercel.app/api?username=paola-machado&theme=radical)](https://github.com/paola-machado/)
+  [![card](https://github-readme-stats.vercel.app/api?username=paola-machado&theme=synthwave)](https://github.com/paola-machado/)
   <br/>
-  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=paola-machado&hide=html&layout=compact&theme=radical)](https://github.com/paola-machado/)
+  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=paola-machado&hide=html&layout=compact&theme=synthwave)](https://github.com/paola-machado/)
 
 ## :earth_americas: Onde me encontrar:
 <p align="left">
