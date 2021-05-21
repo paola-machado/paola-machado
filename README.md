@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </p>
 <br/><br/><br/><br/>
-<p align="center">
+<p align="left">
   <a href="https://github.com/paola-machado/">
     <img
       align="center"
