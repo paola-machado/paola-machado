@@ -18,22 +18,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </p>
-<br/><br/><br/><br/>
-<p align="left">
-  <a href="https://github.com/paola-machado/">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paola-machado&hide=html&layout=compact&theme=buefy"
-    />
-  </a>
-  <a href="https://github.com/paola-machado/">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=paola-machado&theme=buefy&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p>
 
 ## :earth_americas: Onde me encontrar:
 <p align="left">
@@ -53,8 +37,23 @@
   <a href="https://medium.com/@paolamds06" alt="Medium">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a> 
 </p>  
-
----
+<br/>
+<p align="center">
+  <a href="https://github.com/paola-machado/">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paola-machado&hide=html&layout=compact&theme=buefy"
+    />
+  </a>
+  <a href="https://github.com/paola-machado/">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=paola-machado&theme=buefy&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
+<br/><br/>
 <p align="center"> 
 Feito com :purple_heart: e ☕
 </p>
