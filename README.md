@@ -1,6 +1,5 @@
 
 <img src="https://i.ibb.co/bLZrnqS/Dev.gif" align="right" alt="Dev" border="0"></a>
-<br/>
 
 ## :sparkles: Hello, World! :sparkles:
 
