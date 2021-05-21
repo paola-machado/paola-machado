@@ -1,12 +1,14 @@
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.ibb.co/bLZrnqS/Dev.gif" align="right" alt="Dev" border="0"></a>
+<br/><br/><br/>
 
-## :sparkles: Olá, meu nome é <strong>Paola!</strong> :sparkles:
+## :sparkles: Hello, World! :sparkles:
 
-- 👩🏼‍💻 Estou sempre explorando novas tecnologias.
+- 👩🏼‍💻 Estou sempre explorando novas tecnologias!
 - 🎓 Formada em **Ciência da Computação** pela <a href="https://www3.unicentro.br/">Unicentro</a>.
 - 💼 Trabalhando como **Desenvolvedora** na <a href="https://www.livpay.com.br/">Liv</a>.
 - 🦄 Aprendendo mais sobre **UI/UX** e **ReactJS**.
+
 
 ## 🚀 Minhas Skills
 
@@ -17,11 +19,22 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </p>
-
-## ⭐ Informações sobre minha conta GitHub
-  [![card](https://github-readme-stats.vercel.app/api?username=paola-machado&theme=synthwave)](https://github.com/paola-machado/)
-  <br/>
-  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=paola-machado&hide=html&layout=compact&theme=synthwave)](https://github.com/paola-machado/)
+<br/>
+<p align="center">
+  <a href="https://github.com/paola-machado/">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paola-machado&hide=html&layout=compact&theme=buefy"
+    />
+  </a>
+  <a href="https://github.com/paola-machado/">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=paola-machado&theme=buefy&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
 
 ## :earth_americas: Onde me encontrar:
 <p align="left">
@@ -43,4 +56,6 @@
 </p>  
 
 ---
+<p align="center"> 
 Feito com :purple_heart: e ☕
+</p>
