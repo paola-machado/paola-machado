@@ -53,7 +53,7 @@
     />
   </a>
 </p>
-<br/><br/>
+<br/>
 <p align="center"> 
 Feito com :purple_heart: e ☕
 </p>
