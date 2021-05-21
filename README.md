@@ -5,8 +5,8 @@
 
 - 👩🏼‍💻 Estou sempre explorando novas tecnologias.
 - 🎓 Estudando **Ciência da Computação** na <a href="https://www3.unicentro.br/">Unicentro</a>.
-- 💼 Trabalhando como **Estagiária Front-end (Mobile)** na <a href="https://www.livpay.com.br/">Liv</a>.
-- 🦄 Aprendendo mais sobre **UI/UX**, **ReactJS** e **Ruby**.
+- 💼 Trabalhando como **Desenvolvedora** na <a href="https://www.livpay.com.br/">Liv</a>.
+- 🦄 Aprendendo mais sobre **UI/UX** e **ReactJS**.
 
 ## 🚀 Minhas Skills
 
