@@ -1,5 +1,4 @@
-
-<img src="https://i.ibb.co/bLZrnqS/Dev.gif" align="right" alt="Dev" border="0"></a>
+<img src="https://i.ibb.co/LCSb05d/Code-typing-bro-1.png" align="right" width="450px" alt="Code-typing" border="0">
 
 ## :sparkles: Hello, World! :sparkles:
 
@@ -42,14 +41,14 @@
   <a href="https://github.com/paola-machado/">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paola-machado&hide=html&layout=compact&theme=buefy"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paola-machado&hide=html&layout=compact&theme=jolly"
     />
   </a>
   <a href="https://github.com/paola-machado/">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=paola-machado&theme=buefy&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=paola-machado&theme=jolly&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
 </p>
