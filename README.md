@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/50787806/137922044-62e52b06-db30-488e-9bee-653048565a25.gif" align="right" width="450px" height="450px" alt="Code-typing" border="0">
+<img src="https://user-images.githubusercontent.com/50787806/137922044-62e52b06-db30-488e-9bee-653048565a25.gif" align="right" width="400px" height="400px" alt="Code-typing" border="0">
 
 ## :sparkles: Hello, World! :sparkles:
 
