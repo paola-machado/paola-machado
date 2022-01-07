@@ -37,7 +37,7 @@
   <a href="https://github.com/paola-machado/">
     <img
       align="center"
-      height="154"
+      height="154.5"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=paola-machado&hide=html&layout=compact&theme=jolly"
     />
   </a>
