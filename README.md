@@ -4,8 +4,8 @@
 
 - 👩🏼‍💻 Estou sempre explorando novas tecnologias!
 - 🎓 Formada em **Ciência da Computação** pela <a href="https://www3.unicentro.br/">Unicentro</a>.
-- 💼 Trabalhando como **Desenvolvedora** na <a href="https://www.livpay.com.br/">Liv</a>.
-- 🦄 Aprendendo mais sobre **UI/UX** e **ReactJS**.
+- 💼 Trabalhando como **Desenvolvedora** na <a href="https://www.codeminer42.com/">Codeminer42</a>.
+- 🦄 Aprendendo mais sobre **React** e **Next.js**.
 
 
 ## 🚀 Minhas Skills
