@@ -1,37 +1,22 @@
-<img src="https://user-images.githubusercontent.com/50787806/137922044-62e52b06-db30-488e-9bee-653048565a25.gif" align="right" width="400px" height="400px" alt="Code-typing" border="0">
-
 ## :sparkles: Hello, World! :sparkles:
 
-- 👩🏼‍💻 Estou sempre explorando novas tecnologias!
-- 🎓 Formada em **Ciência da Computação** pela <a href="https://www3.unicentro.br/">Unicentro</a>.
-- 💼 Trabalhando como **Desenvolvedora** na <a href="https://www.codeminer42.com/">Codeminer42</a>.
-- 🦄 Aprendendo mais sobre **React** e **Next.js**.
+- 🎓 Bachelor's degree in **Computer Science** from <a href="https://www3.unicentro.br/">Unicentro</a>.
+- 💼 Working as a **Frontend Developer** at <a href="https://www.codeminer42.com/">Codeminer42</a>.
+- 🦄 Studying **React** and **Next.js**.
 
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/>
 </p>
 
-## :earth_americas: Onde me encontrar:
-<p align="left">
-  💌 Entre em contato comigo através de qualquer uma destas redes: 
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/lolawithl/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-  <a href="https://www.instagram.com/lolawithl/" alt="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  
-  <a href="https://medium.com/@paolamds06" alt="Medium">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a> 
-</p>  
 <br/>
 <p align="center">
   <a href="https://github.com/paola-machado/">
