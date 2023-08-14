@@ -1,8 +1,8 @@
 ## :sparkles: Hello, World! :sparkles:
 
 - 🎓 Bachelor's degree in **Computer Science** from <a href="https://www3.unicentro.br/">Unicentro</a>.
-- 💼 Working as a **Frontend Developer** at <a href="https://www.codeminer42.com/">Codeminer42</a>.
-- 🦄 Studying **React** and **Next.js**.
+- 💼 Working as a **Software Engineer Consultant** at <a href="https://www.navalia.io/">Navalia</a>.
+- 🦄 Studying **React**, **React Native**, and other technologies.
 
 
 ## 🚀 My Skills
