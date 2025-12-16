@@ -1,7 +1,7 @@
 ## :sparkles: Hello, World! :sparkles:
 
 - 🎓 Bachelor's degree in **Computer Science** from <a href="https://www3.unicentro.br/">Unicentro</a>.
-- 💼 Working as a **Software Engineer Consultant** at <a href="https://www.navalia.io/">Navalia</a>.
+- 💼 Working as a **Tech Lead** at <a href="https://www.navalia.io/">Navalia</a>.
 - 🦄 Studying **React**, **React Native**, and other technologies.
 
 
